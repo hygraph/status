@@ -1,12 +1,12 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "GraphCMS Status"
+title = "Status"
 
 [permalinks]
   incidents = "/incidents/:year/:month/:day/:slug/"
 
 [params]
-  defaultLogo = "https://graphcms.com/assets/svg/graphcms-logo-graphql-cms.svg"
+  defaultLogo = "https://graphcms.com/assets/img/graphcms_logo.svg"
   faviconsPath = "https://graphcms.com/favicon-196x-196.png"
 
 # List of systems monitored in this status page.

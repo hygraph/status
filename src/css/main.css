@@ -30,21 +30,20 @@ a:active {
   border-bottom: 2px solid #F7F7F8;
   display: flex;
   flex-direction: row;
-  justify-content: space-between;
 }
 
 .logo {
   position: relative;
   top: 4px;
-  height: 24px;
-  margin-right: 8px;
+  height: 48px;
+  margin-right: 20px;
 }
 
 .title {
   font-size: 21px;
   font-weight: 500;
   letter-spacing: 0;
-  line-height: 24px;
+  line-height: 48px;
 }
 
 .title a {
