@@ -1,16 +1,16 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "StatusKit"
+title = "GraphCMS Status"
 
 [permalinks]
   incidents = "/incidents/:year/:month/:day/:slug/"
 
 [params]
-  defaultLogo = "https://www.netlify.com/img/press/logos/logomark.svg"
-  faviconsPath = "/images/favicon/"
+  defaultLogo = "https://graphcms.com/assets/svg/graphcms-logo-graphql-cms.svg"
+  faviconsPath = "https://graphcms.com/favicon-196x-196.png"
 
 # List of systems monitored in this status page.
 # You'll be able to change their status every time
 # you open or update an incident.
 # Replace these examples with your own system names.
-systems = ["API", "CDN", "DNS", "Site delivery"]
+systems = ["Simple API", "Relay API", "WebApp", "Asset CDN", "Docs", "Website"]
