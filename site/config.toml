@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "Status"
+title = ""
 
 [permalinks]
   incidents = "/incidents/:year/:month/:day/:slug/"
