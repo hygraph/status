@@ -6,7 +6,7 @@ title = "Status"
   incidents = "/incidents/:year/:month/:day/:slug/"
 
 [params]
-  defaultLogo = "https://graphcms.com/assets/img/graphcms_logo.svg"
+  defaultLogo = "https://graphcms.com/assets/img/graphcms_status.svg"
   faviconsPath = "https://graphcms.com/favicon-196x-196.png"
 
 # List of systems monitored in this status page.
