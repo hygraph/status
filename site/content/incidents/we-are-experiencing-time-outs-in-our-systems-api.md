@@ -5,6 +5,6 @@ severity = "degraded-performance"
 affectedsystems = [
   "WebApp"
 ]
-resolved = false
+resolved = true
 +++
 We are still investigating the root cause of this issue
