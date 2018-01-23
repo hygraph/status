@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-us"
-title = ""
+title = "GraphCMS Status"
 
 [permalinks]
   incidents = "/incidents/:year/:month/:day/:slug/"
