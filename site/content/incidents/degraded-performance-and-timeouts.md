@@ -7,6 +7,6 @@ affectedsystems = [
   "Relay API",
   "WebApp"
 ]
-resolved = true
+resolved = false
 +++
 We are still investigating the root cause of this issue
