@@ -10,6 +10,6 @@ affectedsystems = [
 resolved = false
 +++
 
-**Update**: We are investigating the cause of this issue. {{< track "2018-01-23T12:12:00.000Z" >}}
+**Update**: We are investigating the cause of this issue. {{< track "2018-01-23T11:12:00.000Z" >}}
 
 We are currently seeing slow response times for GraphQL queries
