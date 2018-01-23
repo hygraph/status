@@ -7,7 +7,7 @@ title = ""
 
 [params]
   defaultLogo = "https://graphcms.com/assets/img/graphcms_status.svg"
-  faviconsPath = "https://graphcms.com/favicon-196x-196.png"
+  faviconsPath = "/images/favicon/"
 
 # List of systems monitored in this status page.
 # You'll be able to change their status every time
