@@ -24,7 +24,9 @@
   <body>
     <div class="gangsta-wrap">
       <div class="header">
-          <img src="{{ $logo }}" alt="logo" class="logo"/>
+          <a href="/">
+            <img src="{{ $logo }}" alt="logo" class="logo"/>
+          </a>
         <div class="right-links">
           {{ with $resources }}
             <a href="{{ . }}" class="button resources-link">Resources</a>
