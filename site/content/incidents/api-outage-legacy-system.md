@@ -3,7 +3,7 @@ title = "API Outage   Legacy System"
 date = 2018-07-11T06:37:57.000Z
 severity = "major-outage"
 affectedsystems = [
-  "Simple API"
+  "Legacy API"
 ]
 resolved = false
 +++

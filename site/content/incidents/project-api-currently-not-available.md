@@ -3,7 +3,7 @@ title = "Project API currently not available"
 date = 2017-11-06T16:17:54.000Z
 severity = "partial-outage"
 affectedsystems = [
-  "Simple API",
+  "Legacy API",
   "Relay API"
 ]
 resolved = true

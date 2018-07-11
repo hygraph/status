@@ -3,7 +3,7 @@ title = "Planned Maintenance"
 date = 2017-11-20T10:59:55.000Z
 severity = "under-maintenance"
 affectedsystems = [
-  "WebApp"
+  "Legacy WebApp"
 ]
 resolved = true
 +++

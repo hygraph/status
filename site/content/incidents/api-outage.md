@@ -3,8 +3,8 @@ title = "API Outage"
 date = 2018-03-03T15:27:35.000Z
 severity = "degraded-performance"
 affectedsystems = [
-  "Simple API",
-  "WebApp",
+  "Legacy API",
+  "Legacy WebApp",
   "Relay API"
 ]
 resolved = true

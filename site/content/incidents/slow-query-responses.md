@@ -3,9 +3,9 @@ title = "Degraded Performance"
 date = 2018-01-23T11:02:04.000Z
 severity = "degraded-performance"
 affectedsystems = [
-  "Simple API",
+  "Legacy API",
   "Relay API",
-  "WebApp"
+  "Legacy WebApp"
 ]
 resolved = true
 +++
