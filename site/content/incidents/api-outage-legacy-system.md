@@ -8,3 +8,5 @@ affectedsystems = [
 resolved = false
 +++
 The US-servers for our legacy systems are undergoing a major outage, we are in contact with our API Provider to resolve this!
+
+**Update**: Graph.cool indentified the issue and is working on a fix {{< track "2018-07-11T11:00:00.000Z" >}}
