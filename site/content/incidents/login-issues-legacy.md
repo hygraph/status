@@ -5,7 +5,7 @@ severity = "partial-outage"
 affectedsystems = [
   "Legacy API"
 ]
-resolved = false
+resolved = true
 +++
 We are looking into an issue of failed logins on our Legacy System
 
