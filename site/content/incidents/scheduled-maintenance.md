@@ -1,5 +1,5 @@
 +++
-title = "🛠  Scheduled Maintenance December 12th"
+title = "🛠  Scheduled Maintenance December 11th"
 date = 2018-12-11T10:00:00.000Z
 severity = "under-maintenance"
 affectedsystems = [
