@@ -9,7 +9,7 @@ affectedsystems = [
 resolved = false
 +++
 
-We will be performing a **scheduled maintenance** starting **5:30pm CET (6:30am PST)** on the GraphCMS webapp and backend.
+We will be performing a **scheduled maintenance** starting **5:30pm CET (8:30am PST)** on the GraphCMS webapp and backend.
 
 During this time you might experience increased latency and intermittent connectivity issues. The webapp will also be switched into a maintenance mode, however the **Content API will remain online**.
 
