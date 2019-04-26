@@ -1,6 +1,6 @@
 +++
 title = "API Issues"
-date = 2019-04-26T09:58:22.000Z
+date = 2019-04-26T10:00:00.000Z
 severity = "partial-outage"
 affectedsystems = [
   "New API",
@@ -9,3 +9,5 @@ affectedsystems = [
 resolved = false
 +++
 We are seeing a partial outage on our EU cluster. Our engineers are currently looking into the issue and will restore service asap
+
+**Update**: The underlaying issue is identified and the developers are working on resolving it {{< track "2019-04-26T10:05:00.000Z" >}}
