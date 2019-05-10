@@ -5,7 +5,7 @@ severity = "degraded-performance"
 affectedsystems = [
   "WebApp"
 ]
-resolved = false
+resolved = true
 +++
 We are currently facing an issue causing some schema changes in the EU region resulting into a deployment error. Our Engineers are already looking into the issue!
 
@@ -18,3 +18,5 @@ We are currently facing an issue causing some schema changes in the EU region re
 **Update**: Our EU-West region is slowly recovering. We are continuing to monitor this region. {{< track "2018-05-10T10:10:00.000Z" >}}
 
 **Update**: We are now working on getting the degraded schema changes performance up to speed! {{< track "2018-05-10T10:20:00.000Z" >}}
+
+**Resolved**: Schema Changes are now fully working again on EU. Failed Deployments during that time have been restored manually. {{< track "2018-05-10T14:30:00.000Z" >}}
