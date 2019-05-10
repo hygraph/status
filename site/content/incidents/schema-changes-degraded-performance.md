@@ -7,4 +7,4 @@ affectedsystems = [
 ]
 resolved = false
 +++
-We are currently facing an issue causing some schema changes resulting into a deployment error
+We are currently facing an issue causing some schema changes resulting into a deployment error. Our Engineers are already looking into the issue!
