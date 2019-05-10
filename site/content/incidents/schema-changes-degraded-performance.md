@@ -1,5 +1,5 @@
 +++
-title = "Schema Changes EU-Cluster Degraded Performance"
+title = "Schema Changes & API Outage due to AWS Issues"
 date = 2019-05-10T08:17:31.000Z
 severity = "major-outage"
 affectedsystems = [
