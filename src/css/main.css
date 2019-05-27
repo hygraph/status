@@ -216,8 +216,11 @@ a:active {
 
 .history {
   margin-top: 104px;
-  opacity: 0.4; /* Real browsers */
-  filter: alpha(opacity = 40); /* MSIE */
+}
+
+.past-incidents {
+  opacity: 0.5; /* Real browsers */
+  filter: alpha(opacity = 50); /* MSIE */
 }
 
 .color-ok {

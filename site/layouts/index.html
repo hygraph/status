@@ -19,9 +19,11 @@
 {{ with $recents }}
 <div class="history">
   <div class="section-title">Past Incidents</div>
-  {{ range $recents }}
+  <div class="past-incidents">
+    {{ range $recents }}
     {{ partial "incident" . }}
-  {{ end }}
+    {{ end }}
+  </div>
   <a href="/incidents" class="see-more">See all incidents</a>
 </div>
 {{ end }}
