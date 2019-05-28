@@ -1,5 +1,5 @@
 +++
-title = "Scheduled Maintenance - 28.05.2019 - 03:00pm UTC"
+title = "Scheduled Maintenance - 28.05.2019 - 07:30pm UTC"
 date = 2019-05-27T15:00:00.000Z
 severity = "under-maintenance"
 affectedsystems = [
