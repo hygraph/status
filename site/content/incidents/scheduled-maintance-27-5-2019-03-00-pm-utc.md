@@ -8,4 +8,6 @@ affectedsystems = [
 ]
 resolved = false
 +++
-We will perform a migration of our production clusters on the **28th of May around 4pm UTC (12pm ET)**. During that time schema changes will be blocked (Management API). Content APIs will not be affected.
+We will perform a migration of our production clusters on the **28th of May around 6:30pm UTC (2:30pm ET)**. During that time schema changes will be blocked (Management API). Content APIs will not be affected.
+
+ 
