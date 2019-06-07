@@ -36,7 +36,7 @@ a:active {
   position: relative;
   top: 4px;
   height: 48px;
-  margin-right: 20px;
+  margin-right: 0px;
   width: 100%;
 }
 
@@ -57,12 +57,18 @@ a:active {
 
 .right-links{
   margin-top: 10px;
-  margin-left: 60px;
+  margin-left: 80px;
 }
 
-@media (max-width: 450px) {
+@media (max-width: 783px) {
   .right-links {
     margin-top: 24px;
+    justify-content: center;
+    vertical-align: middle;
+    align-items: center;
+    align-content: center;
+    align-self: center;
+    margin-left: 0px;
   }
 
   .header {
@@ -97,6 +103,7 @@ a:active {
 
 .contact-link {
   margin-left: 16px;
+  cursor: pointer;
 }
 
 .systems {
