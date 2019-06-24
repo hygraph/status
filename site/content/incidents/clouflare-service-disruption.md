@@ -10,4 +10,4 @@ affectedsystems = [
 ]
 resolved = false
 +++
-Cloudflare seems to have issues with routing. Major parts of the world are affected by this currently. We will update as soon as we have more information.
+Cloudflare seems to have issues with routing. Major parts of the world are affected by this currently. We will update as soon as we have more information. [Cloudflare Status](https://www.cloudflarestatus.com/)
