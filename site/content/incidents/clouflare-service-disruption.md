@@ -14,4 +14,4 @@ Cloudflare seems to have issues with routing. Major parts of the world are affec
 
 **Update**: [Cloudflare is observing network performance issues](https://www.cloudflarestatus.com/) {{< track "2019-06-24T11:05:00.000Z" >}}
 
-**Update**: [his leak is impacting many internet services including Cloudflare. We are continuing to work with the network provider that created this route leak to remove it.](https://www.cloudflarestatus.com/) {{< track "2019-06-24T12:35:00.000Z" >}}
+**Update**: [This leak is impacting many internet services including Cloudflare. We are continuing to work with the network provider that created this route leak to remove it.](https://www.cloudflarestatus.com/) {{< track "2019-06-24T12:35:00.000Z" >}}
