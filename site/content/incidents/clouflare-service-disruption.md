@@ -1,7 +1,7 @@
 +++
 title = "Clouflare Service Disruption"
 date = 2019-06-24T10:45:54.000Z
-severity = "major-outage"
+severity = "partial-outage"
 affectedsystems = [
   "Content API",
   "Management API",
