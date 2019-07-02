@@ -7,7 +7,7 @@ affectedsystems = [
   "Management API",
   "WebApp"
 ]
-resolved = false
+resolved = true
 +++
 
 Cloudflare is currently facing network issues that affect websites around the world, our APIs included. See here for more information: [Cloudflare Status](https://www.cloudflarestatus.com/incidents/tx4pgxs6zxdr). We are in contact to resolve this issue asap!
