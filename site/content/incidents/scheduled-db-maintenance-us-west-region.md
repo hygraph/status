@@ -1,6 +1,6 @@
 +++
 title = "Scheduled DB Maintenance US WEST Region"
-date = 2019-07-03T12:40:41.000Z
+date = 2019-07-02T18:40:00.000Z
 severity = "under-maintenance"
 affectedsystems = [
   "Content API",
