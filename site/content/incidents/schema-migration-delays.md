@@ -8,3 +8,5 @@ affectedsystems = [
 resolved = false
 +++
 We are currently seeing failing schema deployments related to changing schemas and creating projects after our API Provider upgraded our cluster. We are working closely with them to resolve the issue.
+
+For now please hold back with schema changes until we have resolved it!
