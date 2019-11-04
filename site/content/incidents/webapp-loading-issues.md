@@ -7,4 +7,4 @@ affectedsystems = [
 ]
 resolved = false
 +++
-Our Hosting Provider is currently having issues serving our website and webapp. We are looking into the issue. 
+Our Hosting Provider is currently having issues serving our website and webapp. Further information can be found [here](https://www.netlifystatus.com/).
