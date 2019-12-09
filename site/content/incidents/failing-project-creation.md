@@ -1,6 +1,6 @@
 +++
 title = "Failing Project Creation"
-date = 2019-12-09T13:43:56.000Z
+date = 2019-12-09T13:40:00.000Z
 severity = "partial-outage"
 affectedsystems = [
   "Management API",
@@ -9,3 +9,5 @@ affectedsystems = [
 resolved = false
 +++
 We are investigating an issue with project creation not working. We will post an update as soon as we have more information.
+
+**Update**: Our Asset Provider is having problems with their API, which affects our ability to create new projects. {{< track "2019-12-09T13:42:00.000Z" >}} 
