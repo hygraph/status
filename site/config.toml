@@ -14,4 +14,4 @@ title = "GraphCMS Status"
 # You'll be able to change their status every time
 # you open or update an incident.
 # Replace these examples with your own system names.
-systems = ["Content API", "Management API", "WebApp", "Website", "Docs", "Asset CDN", "Legacy Management API", "Legacy Content API", "Legacy WebApp"]
+systems = ["Content API", "Management API", "WebApp", "Website", "Docs", "Asset CDN"]
