@@ -6,7 +6,7 @@ title = "GraphCMS Status"
   incidents = "/incidents/:year/:month/:day/:slug/"
 
 [params]
-  defaultLogo = "https://graphcms.com/assets/img/graphcms_status.svg"
+  defaultLogo = "https://storage.googleapis.com/graphcms-public/gcms_logo.svg"
   faviconsPath = "/images/favicon/"
   resourcesLink = "https://graphcms.com/docs/"
 

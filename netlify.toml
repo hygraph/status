@@ -7,5 +7,5 @@
 
 [template.environment]
   STATUSKIT_PAGE_TITLE = "GraphCMS Status"
-  STATUSKIT_COMPANY_LOGO = "https://graphcms.com/assets/img/graphcms_status.svg"
+  STATUSKIT_COMPANY_LOGO = "https://storage.googleapis.com/graphcms-public/welcome-graphcms.png"
   STATUSKIT_RESOURCES_LINK = "https://graphcms.com/docs/"
