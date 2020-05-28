@@ -5,7 +5,7 @@ severity = "partial-outage"
 affectedsystems = [
   "Content API"
 ]
-resolved = false
+resolved = true
 +++
 We are seeing an elevated error rate in our public legacy EU cluster. We are in contact with our API Provider to mitigate these issues.
 
