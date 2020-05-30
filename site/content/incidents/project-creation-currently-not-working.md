@@ -1,5 +1,5 @@
 +++
-title = "Project Creation currently not working"
+title = "Project Creation currently not possible"
 date = 2020-05-30T17:53:26.000Z
 severity = "degraded-performance"
 affectedsystems = [
