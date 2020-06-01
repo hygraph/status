@@ -6,7 +6,7 @@ affectedsystems = [
   "Management API",
   "WebApp"
 ]
-resolved = false
+resolved = true
 +++
 Our engineers are currently investigating an issue with creating new projects.
 
