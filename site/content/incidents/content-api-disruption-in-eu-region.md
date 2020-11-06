@@ -5,9 +5,10 @@ severity = "partial-outage"
 affectedsystems = [
   "Content API"
 ]
-resolved = false
+resolved = true
 +++
 Our Team is currently investigating an issue with Content APIs in the EU-Central region
 
-
 **Update**: The Content APIs in EU are available again. The team will continue to monitor. {{< track "2020-11-06T13:32:53.000Z" >}}
+
+**Resolved** {{< track "2020-11-06T13:35:00.000Z" >}}
