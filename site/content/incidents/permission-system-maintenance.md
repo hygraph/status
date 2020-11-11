@@ -14,3 +14,5 @@ For the migration we need to stop write mutations on the management API for a sh
 **The migration will start today at 6pm CET** and will most likely take 2 hours. We will post updates on our status page accordingly.
 
 **Update**: The maintenance has started. {{< track "2020-11-11T17:01:00.000Z" >}}
+
+**Update**: The maintenance is progessing, we are in the final steps. {{< track "2020-11-11T19:01:00.000Z" >}}
