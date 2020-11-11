@@ -16,3 +16,5 @@ For the migration we need to stop write mutations on the management API for a sh
 **Update**: The maintenance has started. {{< track "2020-11-11T17:01:00.000Z" >}}
 
 **Update**: The maintenance is progessing, we are taking the final steps. {{< track "2020-11-11T19:01:00.000Z" >}}
+
+**Update**: The maintenance is nearly completed, our team is monitoring the changes. {{< track "2020-11-11T19:20:00.000Z" >}}
