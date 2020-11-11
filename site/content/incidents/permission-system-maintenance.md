@@ -12,3 +12,5 @@ We are preparing a larger migration to introduce the ground work for upcoming fe
 For the migration we need to stop write mutations on the management API for a short time, so no schema changes will be possible during this time window. 
 
 **The migration will start today at 6pm CET** and will most likely take 2 hours. We will post updates on our status page accordingly.
+
+**Update**: The maintenance has started. {{< track "2020-11-11T17:01:00.000Z" >}}
