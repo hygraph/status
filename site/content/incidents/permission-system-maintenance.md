@@ -5,7 +5,7 @@ severity = "under-maintenance"
 affectedsystems = [
   "Management API"
 ]
-resolved = false
+resolved = true
 +++
 We are preparing a larger migration to introduce the ground work for upcoming features. For this we have to migrate all existing customer projects so they are able to use the new Permission Engine we already put in place. In the first step you won’t notice any differences, since the new permission system will work exactly the same from the outside. 
 
@@ -18,3 +18,5 @@ For the migration we need to stop write mutations on the management API for a sh
 **Update**: The maintenance is progressing, we are taking the final steps. {{< track "2020-11-11T19:01:00.000Z" >}}
 
 **Update**: The maintenance is nearly completed, our team is monitoring the changes. {{< track "2020-11-11T19:20:00.000Z" >}}
+
+**Completed** Our maintenance is now completed. Management API Mutations are enabled again. Thanks for your patience! If you have any questions, feel free to reach out via the Contact button above! {{< track "2020-11-11T19:38:00.000Z" >}}
