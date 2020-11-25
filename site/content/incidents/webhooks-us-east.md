@@ -5,7 +5,7 @@ severity = "partial-outage"
 affectedsystems = [
   "Webhooks"
 ]
-resolved = false
+resolved = true
 +++
 There are currently capacity issues in AWS while provisioning compute resources for our webhook system. 
 Our Team is investigating and in contact with the AWS team.
