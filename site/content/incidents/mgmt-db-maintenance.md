@@ -6,7 +6,7 @@ affectedsystems = [
   "Management API",
   "Webapp"
 ]
-resolved = true
+resolved = false
 +++
 
 We will be performing a **scheduled maintenance** starting **08:00am CET** on the GraphCMS webapp and backend.
