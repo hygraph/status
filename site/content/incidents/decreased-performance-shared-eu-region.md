@@ -14,3 +14,5 @@ Our team is currently investigating an increasing error rate on the Shared EU Re
 **Update**: We are continuing to investigate this issue.  {{< track "2021-04-20T16:25:00.000Z" >}}
 
 **Update**: We are continuing to investigate this issue.  {{< track "2021-04-20T17:25:00.000Z" >}}
+
+**Update**: We are continuing to investigate this issue. We know it's a real inconvenience and hope to have it resolved soon  {{< track "2021-04-20T18:00:00.000Z" >}}
