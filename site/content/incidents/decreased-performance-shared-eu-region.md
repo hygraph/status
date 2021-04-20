@@ -5,7 +5,7 @@ severity = "degraded-performance"
 affectedsystems = [
   "Content API"
 ]
-resolved = false
+resolved = true
 +++
 Our team is currently investigating an increasing error rate on the Shared EU Region
 
@@ -18,3 +18,5 @@ Our team is currently investigating an increasing error rate on the Shared EU Re
 **Update**: We are continuing to investigate this issue. We know it's a real inconvenience and hope to have it resolved soon  {{< track "2021-04-20T18:00:00.000Z" >}}
 
 **Update**: The API error rate is decreasing and the APIs should be available again. Our team is continuing to monitor. {{< track "2021-04-20T18:20:00.000Z" >}}
+
+**Resolved**: The service in our shared EU region is fully recovered now. {{< track "2021-04-20T18:20:00.000Z" >}}
