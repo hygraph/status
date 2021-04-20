@@ -8,3 +8,5 @@ affectedsystems = [
 resolved = false
 +++
 Our team is currently investigating an increasing error rate on the Shared EU Region
+
+**Update**: Our engineers are continuing to work on resolving the current API errors on the shared EU region {{< track "2021-04-20T15:48:23.000Z" >}}
